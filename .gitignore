@@ -26,3 +26,5 @@ GEMINI.md
 .playwright-mcp/
 /.agents
 skills-lock.json
+
+/README.md
